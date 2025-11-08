@@ -9,9 +9,6 @@ Hola 🥴
 ![](https://nirzak-streak-stats.vercel.app/?user=KarelHernz&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarelHernz&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KarelHernz&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KarelHernz&icon=5&color=4)](https://visitcount.itsvg.in)
 
